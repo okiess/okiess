@@ -1,4 +1,8 @@
-### Hi there 👋
+### @okiess 👋
+
+I'm an experienced freelance app and webdeveloper focused on mobile apps (Ionic, React Native, iOS, Android) and secure webapps (Javascript/Typescript, Angular, React) and API backends (Fullstack development with NodeJS, AWS Lambda & Amplify, Serverless and Ruby on Rails).
+
+I'm available for software development contracts and projects (remote or onsite in Germany).
 
 <!--
 **okiess/okiess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
