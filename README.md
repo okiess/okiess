@@ -1,6 +1,6 @@
 ### Oliver's Github Profile 👋
 
-I'm an experienced freelance app and webdeveloper focused on mobile apps (Ionic, React Native, iOS, Android) and secure webapps (Javascript/Typescript, Angular, React) and API backends (Fullstack development with NodeJS, AWS Lambda & Amplify, Serverless Framework).
+I'm an experienced freelance fullstack developer focused on webapps (Javascript/Typescript, Angular) and REST/GraphQL API backends (NodeJS, AWS Lambda & Amplify, Serverless Framework). I'm available globally for software development contracts and projects.
 
 [I'm available for remote software development contracts and projects](https://oliver-kiessler.de/en/index.html)
 
