@@ -1,8 +1,10 @@
 ### Oliver's Github Profile 👋
 
-I'm an experienced freelance fullstack developer focused on webapps (Javascript/Typescript, Angular) and REST/GraphQL API backends (NodeJS, AWS Lambda & Amplify, Serverless Framework). I'm available globally for software development contracts and projects.
+My name is Oliver Kiessler and I am a freelance fullstack developer from Cologne, Germany. I specialize in web applications (Angular, Ruby on Rails) and API backend solutions (NodeJS, AWS Lambda & Amplify, Serverless Framework, Java).
 
-[I'm available for remote software development contracts and projects](https://oliver-kiessler.de/en/index.html)
+As an experienced fullstack software developer and IT consultant, I independently take on projects/assignments on a freelance basis or support your company as part of your team.
+
+[I'm available for remote software development contracts and projects / Open to work](https://oliver-kiessler.de/en/index.html)
 
 - 🔭 I’m currently working on a crypto automation framework...
 - 🌱 I’m currently learning more about macro economics and investing ...
